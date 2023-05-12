@@ -1,0 +1,23 @@
+{
+  "name": "rand-str-msg-jpalma76",
+  "version": "1.0.0",
+  "description": "random message string curso platzi- solo prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpalma76/rand-str-msg-jpalma76.git"
+  },
+  "keywords": [],
+  "author": "Jpalma76 <juan.palma.alvarez@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "rand-str-msg-jpalma76": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
