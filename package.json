@@ -1,6 +1,6 @@
 {
   "name": "rand-str-msg-jpalma76",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "random message string curso platzi- solo prueba",
   "main": "index.js",
   "scripts": {
